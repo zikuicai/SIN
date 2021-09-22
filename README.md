@@ -1,3 +1,8 @@
+Some modifictions:
+1. Use the same environment as SCEME code, tf1.5 ...
+2. The pretrained model was not provided by the original repo, but provided by SCEME models. The mAP will be evaluated.
+
+
 # SIN
 Structure Inference Net: Object Detection Using Scene-level Context and Instance-level Relationships. In CVPR 2018.(http://vipl.ict.ac.cn/uploadfile/upload/2018041318013480.pdf)
 
